@@ -6,9 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanthkumar88" alt="sumanthkumar88" /></a> </p>
 
 - 💼 Currently working as a Database Administrator at the University of Kansas
-
-
-- 👯 I’m looking to collaborate on [AI/ML, Data and cloud projects](Projects involving predictive analytics, cloud-native applications (AWS, Azure), or full-stack Python development.)
+- 🌟 Skilled in Cloud (AWS, Azure), DevOps, Data Analytics, and AI/ML
+- 👯 Looking to collaborate on AI/ML, Data, and cloud projects
 
 - 📫 How to reach me **sumanthkumar0527@gmail.com**
 
