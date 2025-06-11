@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumanth Kumar Lingabathini</h1>                                                                        
 <h3 align="center">I am a passionate Software Engineer specializing in Cloud & DevOps, Data Analytics, and AI/ML solutions</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanthkumar88" alt="sumanthkumar88" /></a> </p>
-
 - 💼 Currently working as a Database Administrator at the University of Kansas                      
 - 🌟 Skilled in Cloud (AWS, Azure), DevOps, Data Analytics, and AI/ML
 - 👯 Looking to collaborate on AI/ML, Data, and cloud projects
