@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumanth Kumar Lingabathini</h1>                                                                        
 <h3 align="center">I am a passionate Software Engineer specializing in Cloud & DevOps, Data Analytics, and AI/ML solutions</h3>
               <br>
-                  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+                  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
               </abc>
  
 - 💼 Currently working as a Database Administrator at the University of Kansas                      
