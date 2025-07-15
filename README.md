@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumanth Kumar Lingabathini</h1>                                                                        
-<h3 align="center">I am a passionate Software Engineer specializing in Cloud & DevOps and AI/ML solutions</h3>
+<h3 align="center">I am a passionate Software Engineer specializing in Data, Cloud & DevOps and AI/ML solutions</h3>
 
 <!-- Coder GIF - Centered -->
 <p align="center">
