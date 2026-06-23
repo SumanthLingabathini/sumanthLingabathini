@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./mine.pg" alt="Sumanth Kumar Lingabathini" width="400">
+  <img src="./assets/mine.pg" alt="Sumanth Kumar Lingabathini" width="400">
 </p>
 
 <p align="center">
