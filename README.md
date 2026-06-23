@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/github-profile-dashboard-banner.png" alt="Data Analyst, Power BI and SQL Developer dashboard banner" width="100%">
-</p>
-
 <h1 align="center">Hi, I'm Sumanth Kumar Lingabathini</h1>
 <h3 align="center">Data Analyst | Power BI Developer | SQL Developer</h3>
 
@@ -10,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder working on system" width="400">
+  <img src="./mine.pg" alt="Sumanth Kumar Lingabathini" width="400">
 </p>
 
 <p align="center">
