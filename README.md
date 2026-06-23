@@ -41,22 +41,8 @@
   </a>
 </p>
 
-## Resume
-
-<!-- Resume -->
-<h3 align="left">📄 Resume:</h3>
-
 <p align="left">
-  <a href="https://github.com/SumanthLingabathini/sumanthLingabathini/blob/main/Sumanth_Kumar_Lingabathini_Resume.pdf" target="_blank">
-    🔍 View My Resume
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/SumanthLingabathini/sumanthLingabathini/raw/main/Sumanth_Kumar_Lingabathini_Resume.pdf" target="_blank">
-    📥 Download My Resume
-  </a>
-</p>
+  <a href="https://github.com/SumanthLingabathini/sumanthLingabathini/raw/
 
 ## Core Skills
 
