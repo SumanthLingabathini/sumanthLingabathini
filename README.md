@@ -43,12 +43,18 @@
 
 ## Resume
 
+<!-- Resume -->
+<h3 align="left">📄 Resume:</h3>
+
 <p align="left">
-  <a href="./assets/Sumanth_Kumar_Lingabathini_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-0B7285?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume">
+  <a href="https://github.com/SumanthLingabathini/sumanthLingabathini/blob/main/Sumanth_Kumar_Lingabathini_Resume.pdf" target="_blank">
+    🔍 View My Resume
   </a>
-  <a href="./assets/Sumanth_Kumar_Lingabathini_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
+</p>
+
+<p align="left">
+  <a href="https://github.com/SumanthLingabathini/sumanthLingabathini/raw/main/Sumanth_Kumar_Lingabathini_Resume.pdf" target="_blank">
+    📥 Download My Resume
   </a>
 </p>
 
