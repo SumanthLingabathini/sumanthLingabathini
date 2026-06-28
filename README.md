@@ -16,6 +16,7 @@
 </p>
 
 ## About Me
+<img align="right" alt="Coding" width="400" src="https://blog.drumup.io/wp-content/uploads/2018/02/source.gif">
 
 - Currently working as a Data Resource Analyst at the University of Kansas.
 - Focused on Power BI dashboards, DAX, Power Query, SQL, Tableau, Python, R, KPI modeling, and data quality automation.
